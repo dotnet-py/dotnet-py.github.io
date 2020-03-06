@@ -1,2 +1,2 @@
-# dotnet-py.github.io
+# net-py.github.io
 Python for .Net developers reference
